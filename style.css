@@ -1,0 +1,12 @@
+body{
+    background-color: bisque;
+    font: 20px Arial, sans-serif;
+}
+table,th,td{
+    border:1px solid black; 
+    border-collapse:collapse;
+    background-color: rgb(70, 112, 98);
+}
+one{
+    background-color: blue;
+}
